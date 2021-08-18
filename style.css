@@ -1,0 +1,202 @@
+.navigation{
+     background-color: #1f1f7a;
+     margin-left: auto;
+     margin-right: auto;
+     width: 60%;
+     height: 100px;
+     display: flex;
+     justify-content: space-around;
+     margin-bottom: 0px;
+            
+               
+   }
+
+button{
+      color: white;
+      background-color: #1f1f7a;
+      font-size: 40px;
+      font-family: 'Asap';
+      border: none;
+      cursor: pointer
+ }
+
+.aside{
+  float: left;
+  width: 30%;
+   
+  }
+
+.section{
+  float: right;
+  width: 70%;
+      
+  }
+
+
+img{
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 200px;  
+       
+}
+
+.header{
+ display: flex;
+     
+}
+
+.title1{
+  font-family: 'Abril Fatface';
+  position: absolute;
+  top: 550px; ;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
+  color: #1f1f7a
+}
+
+#hi{
+  font-size: 50px;
+  margin: 0px;
+  text-align: left;
+  padding-left: 20px;
+  padding-bottom: 10px
+}
+
+#Anakin{
+  margin: 0px;
+  font-size: 50px;
+  text-align: left;
+  padding-left: 20px;
+ 
+  }
+
+ .main{
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 5px solid black;
+     
+}
+
+.analytical{
+  font-family: 'Josefin Sans';
+  font-size: 25px;
+  line-height: 1.5;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  margin-left: 60px;
+  
+}
+
+.list1{
+  width: 1000px;
+  display: block;
+  margin-left: 60px;
+   
+}
+
+.list{
+  width: 1000px;
+  display: block;
+  margin-left: 60px;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 40px;  
+   
+}
+
+.title2{
+  font-family: 'Josefin Sans';
+  font-size: 30px;
+  padding-left: 60px;
+  margin-bottom: 0px;
+  line-height: 1.5
+}
+
+.citation1{
+  font-family: 'Abril Fatface';
+  width: 100%; 
+  height: 400px;
+  color: white;
+  background-color: #585858;
+  font-size: 45px;
+  color: white;
+  margin-bottom: 400px;
+  
+      
+  } 
+
+blockquote::before{
+  content: "“";
+  color: white;
+  font-size: 150px;
+      
+}
+.cit{
+  margin: 00px;
+  text-align: left;
+  padding-left: 20px;
+  vertical-align: center
+           }
+
+.citation2{
+  font-family: 'Abril Fatface';
+  display: flex;
+  width: 100%; 
+  height: 450px;
+  color: white;
+  background-color: #585858;
+  font-size: 45px;
+  color: white;
+  margin-bottom: 300px
+        
+  } 
+
+.citation3{
+  font-family: 'Abril Fatface';
+  display: flex;
+  width: 100%; 
+  height: 500px;
+  background-color: #585858;
+  font-size: 45px;
+  color: white;
+  margin-bottom: 100px;   
+        
+  } 
+
+h2{
+  font-family: 'Josefin Sans';
+  font-size: 25px;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-left: 60px;
+  padding-bottom: 0px;
+  }
+
+.cursive{
+  font-family: 'Merriweather';
+  font-size: 18px;
+  padding-left: 60px; 
+  margin-top: 0px;
+  
+   } 
+
+.text{
+   font-family: 'Josefin Sans';
+   font-size: 20px;
+   padding-left: 60px;
+   line-height: 1.5;
+   margin-bottom: 40px;
+  
+  
+ }
+
+footer{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40p;
+  clear: right;
+ 
+}
